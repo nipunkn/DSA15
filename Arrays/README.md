@@ -1,3 +1,4 @@
+NOTE-all questions are with test cases you can remove that line to get normal code
 # 📦 Arrays – Data Structures & Algorithms
 
 An **array** is a linear data structure that stores elements of the **same data type** in **contiguous memory locations**.  
